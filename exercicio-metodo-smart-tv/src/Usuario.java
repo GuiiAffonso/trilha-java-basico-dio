@@ -24,5 +24,4 @@ public class Usuario {
         System.out.println("Canal atual: " + smarTv.canal);
 
     }
-
 }
